@@ -1,7 +1,7 @@
 <h1>Using Linux commands to manage file permissions</h1>
 
-<h2>Project description</h2>
-The goal is to ensure users on this team are authorized with the appropriate permissions which helps keep the system secure. I will be examining existing permissions on the file system to determine if the permissions match the authorization that should be given. If they do not, I will modify the permissions to authorize the appropriate users and remove any unauthorized access using various Linux commands. 
+<h2>Description</h2>
+The project is to ensure users on this team are authorized with the appropriate permissions which helps keep the system secure. I will be examining existing permissions on the file system to determine if the permissions match the authorization that should be given. If they do not, I will modify the permissions to authorize the appropriate users and remove any unauthorized access using various Linux commands. 
 
 
 <h2>Check file and directory details</h2>
